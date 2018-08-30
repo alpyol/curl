@@ -137,4 +137,4 @@ Then run `test/runner.php`
 
 ## Contact
 
-Problems, comments, and suggestions all welcome: [shuber@huberry.com](mailto:shuber@huberry.com)
+Problems, comments, and suggestions all welcome: [kararuhlar@gmail.com](mailto:kararuhlar@gmail.com)
